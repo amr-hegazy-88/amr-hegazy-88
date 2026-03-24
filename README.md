@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
 <br>
 
 <h1>Hi 👋 I'm Amr Hegazy</h1>
