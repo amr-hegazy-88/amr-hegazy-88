@@ -84,9 +84,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=amr-hegazy-88&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-hegazy-88&theme=tokyonight" height="180"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hegazy-88&layout=compact&theme=tokyonight" height="150"/>
+<br>
 
 </div>
 ---
