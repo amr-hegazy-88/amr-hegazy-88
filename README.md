@@ -35,7 +35,11 @@
 &nbsp;&nbsp;&nbsp;
 </div>
 
----
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amr-hegazy-88&style=for-the-badge&color=blue" height="40"/>
+
+</div>
 
 ## ✨ Quick Reach
 
@@ -73,7 +77,19 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
+## 📈 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amr-hegazy-88&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amr-hegazy-88&theme=tokyonight" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-hegazy-88&layout=compact&theme=tokyonight" height="150"/>
+
+</div>
+---
 ## 💻 Skills Overview
 
 ```python
@@ -90,3 +106,4 @@ class DataAnalyst:
             "Statistical Analysis",
             "Business Insights"
         ]
+
