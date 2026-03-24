@@ -7,7 +7,43 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amr-hegazy-6022b9331" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:amrhegazy0155@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/https://www.facebook.com/share/18T2f5Sge4/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/+20 1021166045" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/https://www.instagram.com/3mr_7egazy_22?igsh=amR1eDRkaWE5dmtn" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+</div>
+
+---
+
+## ✨ Quick Reach
+
+<p align="center">
+💼 Open for Data Analyst Opportunities <br>
+📊 Available for Freelance Projects <br>
+🚀 Let’s turn data into insights together!
+</p>
 
 </div>
 
